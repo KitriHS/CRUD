@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.084" height="45.534" viewBox="0 0 38.084 45.534">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#a2195b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.7px}
+        </style>
+    </defs>
+    <g id="prefix__bin" transform="translate(-769.65 -1223.15)">
+        <path id="prefix__Line_124" d="M0 0L35.384 0" class="prefix__cls-1" data-name="Line 124" transform="translate(771 1230.087)"/>
+        <path id="prefix__Rectangle_215" d="M2.309 0h10.28A2.309 2.309 0 0 1 14.9 2.309v3.278H0V2.309A2.309 2.309 0 0 1 2.309 0z" class="prefix__cls-1" data-name="Rectangle 215" transform="translate(781.243 1224.5)"/>
+        <path id="prefix__Line_125" d="M0 0L0 22.348" class="prefix__cls-1" data-name="Line 125" transform="translate(788.692 1237.536)"/>
+        <path id="prefix__Line_126" d="M0 0L0 22.348" class="prefix__cls-1" data-name="Line 126" transform="translate(781.243 1237.536)"/>
+        <path id="prefix__Line_127" d="M0 0L0 22.348" class="prefix__cls-1" data-name="Line 127" transform="translate(796.141 1237.536)"/>
+        <path id="prefix__Path_1282" d="M795.12 1264.747h-15.443a5.586 5.586 0 0 1-5.58-5.308l-1.6-31.939h29.8l-1.6 31.939a5.586 5.586 0 0 1-5.577 5.308z" class="prefix__cls-1" data-name="Path 1282" transform="translate(1.293 2.587)"/>
+    </g>
+</svg>
